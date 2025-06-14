@@ -32,8 +32,8 @@ const contactBook = {
 
 
 function showContacts(contactBook, groupToShow) { // Rör ej denna kod
-
-
+  
+console.log()
 
     // Loopar igenom alla kontakter och jämför grupp
    
